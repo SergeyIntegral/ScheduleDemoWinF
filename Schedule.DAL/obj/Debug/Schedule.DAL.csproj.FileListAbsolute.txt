@@ -1,0 +1,30 @@
+C:\Users\Integral\documents\visual studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\ScheduleNahui.DAL.dll.config
+C:\Users\Integral\documents\visual studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\ScheduleNahui.DAL.dll
+C:\Users\Integral\documents\visual studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\ScheduleNahui.DAL.pdb
+C:\Users\Integral\documents\visual studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Integral\documents\visual studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Integral\documents\visual studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Integral\documents\visual studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Integral\documents\visual studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\ScheduleNahui.DAL.dll
+C:\Users\Integral\documents\visual studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\ScheduleNahui.DAL.pdb
+C:\Users\Integral\documents\visual studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\Schedule.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Integral\Desktop\Ласт\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\Schedule.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Integral\Desktop\Ласт\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\ScheduleNahui.DAL.dll
+C:\Users\Integral\Desktop\Ласт\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\ScheduleNahui.DAL.pdb
+C:\Users\Integral\Desktop\Ласт\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\ScheduleNahui.DAL.dll.config
+C:\Users\Integral\Desktop\Ласт\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\ScheduleNahui.DAL.dll
+C:\Users\Integral\Desktop\Ласт\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\ScheduleNahui.DAL.pdb
+C:\Users\Integral\Desktop\Ласт\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Integral\Desktop\Ласт\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Integral\Desktop\Ласт\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Integral\Desktop\Ласт\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Integral\Desktop\О Боже это же релиз!\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Integral\Desktop\О Боже это же релиз!\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Integral\Desktop\О Боже это же релиз!\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Integral\Desktop\О Боже это же релиз!\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Integral\Desktop\О Боже это же релиз!\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\Schedule.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Integral\Desktop\О Боже это же релиз!\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\Schedule.DAL.dll.config
+C:\Users\Integral\Desktop\О Боже это же релиз!\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\Schedule.DAL.dll
+C:\Users\Integral\Desktop\О Боже это же релиз!\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\Schedule.DAL.pdb
+C:\Users\Integral\Desktop\О Боже это же релиз!\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\Schedule.DAL.dll
+C:\Users\Integral\Desktop\О Боже это же релиз!\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\Schedule.DAL.pdb

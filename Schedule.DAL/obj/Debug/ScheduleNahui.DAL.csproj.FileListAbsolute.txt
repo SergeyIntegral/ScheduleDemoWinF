@@ -1,0 +1,10 @@
+C:\Users\Integral\Documents\Visual Studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\ScheduleNahui.DAL.dll.config
+C:\Users\Integral\Documents\Visual Studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\ScheduleNahui.DAL.dll
+C:\Users\Integral\Documents\Visual Studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\ScheduleNahui.DAL.pdb
+C:\Users\Integral\Documents\Visual Studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Integral\Documents\Visual Studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Integral\Documents\Visual Studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Integral\Documents\Visual Studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Integral\Documents\Visual Studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\ScheduleNahui.DAL.dll
+C:\Users\Integral\Documents\Visual Studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\ScheduleNahui.DAL.pdb
+C:\Users\Integral\Documents\Visual Studio 2015\Projects\ScheduleNahui\ScheduleNahui.DAL\obj\Debug\ScheduleNahui.DAL.csprojResolveAssemblyReference.cache
