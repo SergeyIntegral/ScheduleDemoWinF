@@ -2231,5 +2231,12 @@ namespace Schedule
 
             }
         }
+
+	private Void TESTGID()
+	{
+		MessageBox.Show("123");
+		//test
+
+	}
     }
 }
